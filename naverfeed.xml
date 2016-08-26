@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<feed xmlns="http://webmastertool.naver.com">
+<id>http://studywiki.gonetis.com/tip/naverfeed.xml</id>
+<title>대학꿀팁위키</title>
+<author>
+	<name>Seong tae</name>
+</author>
+<updated>2015-01-15T10:10:49+09:00</updated>
+<link rel="site" href="http://studywiki.gonetis.com/tip" title="대학위키"/>
+<entry>
+	<id>
+	http://studywiki.gonetis.com/tip/univerMain.php
+	</id>
+	<title>
+	대학꿀팁
+	</title>
+	<author>
+	<name>seong tae</name>
+	</author>
+	<updated>2015-01-16T10:10:48+09:00</updated>
+	<published>2015-01-16T10:10:48+09:00</published>
+	<link rel="via" href="http://studywiki.gonetis.com/tip/univerMain.php" title="대학꿀팁"/>
+	<link rel="mobile" href="http://studywiki.gonetis.com/tip/univerMain.php"/>
+	<content type="html">
+	<![CDATA[
+	<h2>대학 꿀팁</h2><h3>대학목록</h3><a href="http://studywiki.gonetis.com/tip/univerMain.php">클릭</a>
+	]]>
+	</content>
+	<summary type="text">
+	<![CDATA[
+	대학꿀팁, 여러분의 참여가 좀 더 나은 위키로 이어집니다. 모든 대학 꿀팁이 모일때까지.
+	]]>
+	</summary>
+</entry>
+</feed>

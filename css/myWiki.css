@@ -1,0 +1,106 @@
+@import url(http://fonts.googleapis.com/earlyaccess/nanumgothic.css);
+h1,h2,h3,h4,h5,h6{font-family: 'Nanum Gothic', sans-serif;;font-weight: normal}
+body{font-family: 'Nanum Gothic', sans-serif;background-color:#FAFAFA}
+h1{margin: 0}
+a{padding: 0;margin: 0}
+h1 a{color: black;font-weight: bold}
+ul{padding: 0;margin: 0}
+.myHeader{background-color: #F2F2F2;border-bottom: 20px solid #e6e6e6}
+.myNav{background-color: #F2F2F2;border: 0}/*네비컬러*/
+.myHeaderDetail{padding:0;padding-top: 20px;}
+.myHeaderDetail h1{font-size: 1.8em;text-align: center;}
+.myHeaderDetail h1 a:hover{text-decoration: none;color:#a4a4a4}
+.welcome{padding: 5px 0 10px 0;}
+.pdindex{padding:0;padding-bottom:10px;margin: 0 auto;}
+.contentInfo{float: left;margin: 10px 0 10px 0}
+.contentEdit{float: right;margin: 10px 0 10px 0;font-size:0.9em;}
+.contentReading{clear: both;padding: 10px;font-size: 0.98em}
+h2{color:#428bca;margin:10px 0 10px 0;font: 0.8em;padding-left:30px; }
+h2 a{font-size: 0.8em;color:#A4A4A4}
+h3{font-size: 1.5em;font-weight: bold;padding-left:10px;}
+h5{font-size: 1.1em;padding-left: 10px;color:#555}
+.contentMain{padding: 10px;margin:15px 5px 10px 5px;}
+.myMat{padding: 5px;margin:5px 5px 5px 5px;}
+.textedit{clear:both;height: 400px;padding: 10px;border: 1px solid #a4a4a4;margin: 5px}
+.wikitextedit{width: 938px;height: 400px;padding: 10px;margin:0;border: 1px solid #a4a4a4;clear:both; }
+.contentIndex li{padding:5px;font-size:1.2em;clear: both}
+.sort{color:#a4a4a4;font-size:0.8em;float: right;margin:15px 5px 0 0}
+.myNavcolor{color: white;}
+.mySubmit{float:left; margin: 10px;}
+.movelft{float: left}
+.myIntro{margin: 0;margin-bottom: 8px;}
+.myIntro li{font-size: 0.9em;color:#848484}
+.editwar{margin: 5px 0 5px 10px;font-size:0.9em;color: #6e6e6e}
+.wartop{margin-top: 5px}
+.foot{padding-top: 20px;
+padding-bottom: 30px;
+margin-top:10px;
+border-top:1px solid #D8D8D8;
+text-align: center;
+font-family: Tahoma;
+color: #7f8c8d;
+line-height: 12px;}
+.foot p{font-size: 0.7em;margin: 5px;}
+.myPanimg{height: 300px;}
+.myDate{font-size: 0.8em;color:#a4a4a4;text-align: center}
+.myIp{font-size:0.8em;color:#a4a4a4;text-align: center}
+.myTable{margin: 0;margin-top:5px;margin-bottom:10px;background-color: #F2F2F2;border-bottom: 2px solid #BDBDBD;}
+.myTbHead{font-size: 0.9em;color:#0489B1;font-weight: bold;}
+.myTitle{margin:0; text-align: left;}
+.myinTitle{padding:0;text-align: left;font-size: 1.7em;margin-left: 2%;line-height: 10px}
+.myinfont{font-size:0.8em;color:#a4a4a4;padding:0;margin-top: 2%;float: left}
+.mybtn{float: right;margin: 5px}
+.myComLab{clear:both;float: left;margin: 5px;font-size: 0.9em}
+.myComtitle{height: 30px;padding: 10px;width: 60%;float: left;margin-bottom: 10px}
+.com-name{width: 100px}
+.mySmtit{font-size: 0.8em;color: #a4a4a4;float: left;margin:3px;}
+.myPlay{float:left;margin: 5px;}
+.myinbox{margin-top: 10px}
+.myCon{width:auto;padding:10px;padding-top:15px;}
+.myView{margin-top: 10px}
+.myPhoneNum{font-size: 0.8em;color:#848484;}
+.myPhoneNum a{text-decoration:none;}
+.myMap{margin:10px;display:block;float: left;color:#FF7700;}
+.myMap:hover{color: black;}
+.myHome{margin:10px;display:block;float: right;color:#FF7700;}
+.myHome:hover{color: black;}
+.inner{width: 50%;margin: 0 auto;}
+.map{margin-top: 10px;}
+.map a{margin-left: 10px;padding: 10px;padding-right: 50%;}
+.mintitle{clear:both;text-align:center;position: relative;top:0;margin: 0;color: #a4a4a4;font-size: 0.9em}
+.option{margin-bottom: 10px;}
+.unioption{margin-right: 10px;font-size: 0.8em}
+.pagelink{float: right;font-size:0.9em;margin-right: 15px}
+.ment p{clear:both;font-size:0.9em;margin: 3px;padding-bottom: 3px;padding-left: 5px}
+.main{background-color: #f2f2f2;padding: 10px;border: 1px solid #D8D8D8;margin: 5px;border-bottom: 2px solid #bdbdbd;border-radius: 5px}
+.main h3{margin: 0;margin-bottom: 5px;color:#FF7700;}
+.header{padding: 0;margin-bottom: 10px;}
+.header p{font-size: 0.9em;color:#585858}
+.stroke{border-bottom: 2px solid #585858;}
+.new span{font-size: 0.7em;color:#a4a4a4}
+.new a{font-size: 0.9em}
+.submain{padding: 0;margin: 10px;}
+.submain h3{font-size:1.3em;margin: 0;margin-bottom: 10px;color:#FF7700;}
+.calendaredit{font-size: 0.8em;float: right;}
+.myTalk{padding: 0;margin:5px;margin-bottom: 20px;width:97.5%;border-bottom: 2px solid #bdbdbd}
+.mytip{padding: 0;margin:5px;margin-bottom: 10px;width:97.5%;}
+#talk{font-size: 1.3em;color: #FF7700;padding-left: 10px}
+.texttalk{width: 100%;height: 100px;margin-bottom: 5px;border: 2px solid #999}
+.calendarbox{margin-bottom: 20px}
+.mylabel{position:relative;bottom: 2px;}
+.calfoot{float: right;font-size: 0.9em;color: #848484;margin: 5px}
+.talkcontent{border-bottom: 1px dotted #888;padding: 5px;width: 100%}
+.talkcontent span{float: right;font-size:0.8em;color: #848484}
+h4 a{font-size: 1.1em}
+.talkwar{float: right;font-size: 0.7em;color: #848484}
+.ssultable td{text-align:center}
+.top{position:fixed;bottom:0;right:0;margin: 8%;width: 30px;height: 30px}
+.calldevel{font-size: 1.2em;font-weight: bold;color:#FF7700}
+.boxing{float: left;}
+.addcom{margin: 5px;height: 33px;padding: 5px;border: 1px solid #a4a4a4;border-radius: 3px;float: right}
+.btnadd{float: right;margin:5px;}
+.content{clear: both}
+.main h3{float: left;}
+.uninew{display: inline-block;left: 5px;top:0px}
+.face{position: relative;left:10px}
+.facetop{margin: 5px 0 0 10px}
